@@ -1,0 +1,15 @@
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\bin\Debug\netstandard2.0\CelebrationCard.deps.json
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\bin\Debug\netstandard2.0\CelebrationCard.dll
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\bin\Debug\netstandard2.0\CelebrationCard.pdb
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\CelebrationCard.csproj.AssemblyReference.cache
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\CelebrationCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\CelebrationCard.AssemblyInfoInputs.cache
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\CelebrationCard.AssemblyInfo.cs
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\CelebrationCard.csproj.CoreCompileInputs.cache
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\CelebrationCard.dll
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\refint\CelebrationCard.dll
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\CelebrationCard.pdb
+D:\Anh_Quan\Tai_lieu\Mobile\Do_an\CelebrationCard\CelebrationCard\obj\Debug\netstandard2.0\ref\CelebrationCard.dll

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CelebrationCard.MainPage">
+
+    <StackLayout>
+        <Image Source="https://vnuf.edu.vn/wp-content/uploads/2020/11/SU-KIEN-ngay-Nha-Giao-VN.jpg"
+               HeightRequest="500"
+               x:Name= "imageView"/>
+        <Label Text="CHÚC MỪNG"
+               FontSize="30"
+               TextColor="#1976d2"
+               HorizontalOptions="Center"
+               />
+        <Label Text="NGÀY NHÀ GIÁO VIỆT NAM 20-11" 
+               FontSize="20"
+               TextColor="#1976d2"
+               HorizontalOptions="Center"
+               />
+        <Button Text="Đổi ảnh"
+                BackgroundColor="#1976d2"
+                TextColor="WhiteSmoke"
+                Clicked="Button_Clicked"
+                />
+    </StackLayout>
+
+</ContentPage>

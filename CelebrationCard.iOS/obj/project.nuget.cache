@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2aXudnS+wvP9WsprzOar2pA8jt/OkR686Hj4sgFaUPdgW+yIyS9Pk/hozU5AIisgFNepJtGFQM1VWdXTZc+EQ==",
+  "success": true,
+  "projectFilePath": "D:\\Anh_Quan\\Tai_lieu\\Mobile\\Do_an\\CelebrationCard\\CelebrationCard.iOS\\CelebrationCard.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
